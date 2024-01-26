@@ -1,147 +1,89 @@
-<h1 align="center">
-  <a href="https://reactnative.dev/">
-    React Native
-  </a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center" tabindex="-1" dir="auto"><a id="user-content-------react-native--" class="anchor" aria-hidden="true" tabindex="-1" href="#------react-native--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+  <a href="https://reactnative.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    反应本机
+  </font></font></a>
 </h1>
-
-<p align="center">
-  <strong>Learn once, write anywhere:</strong><br>
-  Build mobile apps with React.
-</p>
-
-<p align="center">
+<p align="center" dir="auto">
+  <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一次学习，随处编写：</font></font></strong><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  使用 React 构建移动应用程序。
+</font></font></p>
+<p align="center" dir="auto">
   <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
+    <img src="https://camo.githubusercontent.com/2bb6ac78e5a9f4f688a6a066cc71b62012101802fcdb478e6e4c6b6ec75dc694/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667" alt="React Native 是在 MIT 许可下发布的。" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width: 100%;">
   </a>
-  <a href="https://circleci.com/gh/facebook/react-native">
-    <img src="https://circleci.com/gh/facebook/react-native.svg?style=shield" alt="Current CircleCI build status." />
+  <a href="https://circleci.com/gh/facebook/react-native" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/c16c523eb399df93aa6113a89da2fe8256e50e133ffc527506ece3d531927bb4/68747470733a2f2f636972636c6563692e636f6d2f67682f66616365626f6f6b2f72656163742d6e61746976652e7376673f7374796c653d736869656c64" alt="当前 CircleCI 构建状态。" data-canonical-src="https://circleci.com/gh/facebook/react-native.svg?style=shield" style="max-width: 100%;">
   </a>
-  <a href="https://www.npmjs.org/package/react-native">
-    <img src="https://img.shields.io/npm/v/react-native?color=brightgreen&label=npm%20package" alt="Current npm package version." />
+  <a href="https://www.npmjs.org/package/react-native" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/16273c9174e9628d02d18a81ec386637d497ce30795e916a75d6d35381c6039d/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d6e61746976653f636f6c6f723d627269676874677265656e266c6162656c3d6e706d2532307061636b616765" alt="当前 npm 包版本。" data-canonical-src="https://img.shields.io/npm/v/react-native?color=brightgreen&amp;label=npm%20package" style="max-width: 100%;">
   </a>
-  <a href="https://reactnative.dev/docs/contributing">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  <a href="https://reactnative.dev/docs/contributing" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/7f745fb7dd2a22f68fe03adcdb977963ada4c8265675e572c629b29b9b34af2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667" alt="欢迎 PR！" data-canonical-src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" style="max-width: 100%;">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=reactnative">
-    <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" alt="Follow @reactnative" />
+  <a href="https://twitter.com/intent/follow?screen_name=reactnative" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/39b20d0fce961777ecbd3212a7e3f7f48ed81e0cc5250fc7a070303145a6a7c9/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f72656163746e61746976652e7376673f6c6162656c3d466f6c6c6f772532304072656163746e6174697665" alt="关注@reactnative" data-canonical-src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" style="max-width: 100%;">
   </a>
 </p>
-
-<h3 align="center">
-  <a href="https://reactnative.dev/docs/getting-started">Getting Started</a>
-  <span> · </span>
-  <a href="https://reactnative.dev/docs/tutorial">Learn the Basics</a>
-  <span> · </span>
-  <a href="https://reactnative.dev/showcase">Showcase</a>
-  <span> · </span>
-  <a href="https://reactnative.dev/docs/contributing">Contribute</a>
-  <span> · </span>
-  <a href="https://reactnative.dev/help">Community</a>
-  <span> · </span>
-  <a href="https://github.com/facebook/react-native/blob/HEAD/.github/SUPPORT.md">Support</a>
+<h3 align="center" tabindex="-1" dir="auto"><a id="user-content---getting-started------learn-the-basics------showcase------contribute------community------support" class="anchor" aria-hidden="true" tabindex="-1" href="#--getting-started------learn-the-basics------showcase------contribute------community------support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+  <a href="https://reactnative.dev/docs/getting-started" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://reactnative.dev/docs/tutorial" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习基础知识</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://reactnative.dev/showcase" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">展示</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://reactnative.dev/docs/contributing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://reactnative.dev/help" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://github.com/facebook/react-native/blob/HEAD/.github/SUPPORT.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></a>
 </h3>
-
-React Native brings [**React**'s][r] declarative UI framework to iOS and Android. With React Native, you use native UI controls and have full access to the native platform.
-
-- **Declarative.** React makes it painless to create interactive UIs. Declarative views make your code more predictable and easier to debug.
-- **Component-Based.** Build encapsulated components that manage their state, then compose them to make complex UIs.
-- **Developer Velocity.** See local changes in seconds. Changes to JavaScript code can be live reloaded without rebuilding the native app.
-- **Portability.** Reuse code across iOS, Android, and [other platforms][p].
-
-React Native is developed and supported by many companies and individual core contributors. Find out more in our [ecosystem overview][e].
-
-[r]: https://react.dev/
-[p]: https://reactnative.dev/docs/out-of-tree-platforms
-[e]: https://github.com/facebook/react-native/blob/HEAD/ECOSYSTEM.md
-
-## Contents
-
-- [Requirements](#-requirements)
-- [Building your first React Native app](#-building-your-first-react-native-app)
-- [Documentation](#-documentation)
-- [Upgrading](#-upgrading)
-- [How to Contribute](#-how-to-contribute)
-- [Code of Conduct](#code-of-conduct)
-- [License](#-license)
-
-
-## 📋 Requirements
-
-React Native apps may target iOS 13.4 and Android 6.0 (API 23) or newer. You may use Windows, macOS, or Linux as your development operating system, though building and running iOS apps is limited to macOS. Tools like [Expo](https://expo.dev) can be used to work around this.
-
-## 🎉 Building your first React Native app
-
-Follow the [Getting Started guide](https://reactnative.dev/docs/getting-started). The recommended way to install React Native depends on your project. Here you can find short guides for the most common scenarios:
-
-- [Trying out React Native][hello-world]
-- [Creating a New Application][new-app]
-- [Adding React Native to an Existing Application][existing]
-
-[hello-world]: https://snack.expo.dev/@samples/hello-world
-[new-app]: https://reactnative.dev/docs/getting-started
-[existing]: https://reactnative.dev/docs/integration-with-existing-apps
-
-## 📖 Documentation
-
-The full documentation for React Native can be found on our [website][docs].
-
-The React Native documentation discusses components, APIs, and topics that are specific to React Native. For further documentation on the React API that is shared between React Native and React DOM, refer to the [React documentation][r-docs].
-
-The source for the React Native documentation and website is hosted on a separate repo, [**@facebook/react-native-website**][repo-website].
-
-[docs]: https://reactnative.dev/docs/getting-started
-[r-docs]: https://react.dev/learn
-[repo-website]: https://github.com/facebook/react-native-website
-
-## 🚀 Upgrading
-
-Upgrading to new versions of React Native may give you access to more APIs, views, developer tools, and other goodies. See the [Upgrading Guide][u] for instructions.
-
-React Native releases are discussed [in this discussion repo](https://github.com/reactwg/react-native-releases/discussions).
-
-[u]: https://reactnative.dev/docs/upgrading
-[repo-releases]: https://github.com/react-native-community/react-native-releases
-
-## 👏 How to Contribute
-
-The main purpose of this repository is to continue evolving React Native core. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can take part in improving React Native.
-
-### [Code of Conduct][code]
-
-Facebook has adopted a Code of Conduct that we expect project participants to adhere to.
-Please read the [full text][code] so that you can understand what actions will and will not be tolerated.
-
-[code]: https://code.fb.com/codeofconduct/
-
-### [Contributing Guide][contribute]
-
-Read our [**Contributing Guide**][contribute] to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React Native.
-
-[contribute]: https://reactnative.dev/docs/contributing
-
-### [Open Source Roadmap][roadmap]
-
-You can learn more about our vision for React Native in the [**Roadmap**][roadmap].
-
-[roadmap]: https://github.com/facebook/react-native/wiki/Roadmap
-
-### Good First Issues
-
-We have a list of [good first issues][gfi] that contain bugs which have a relatively limited scope. This is a great place to get started, gain experience, and get familiar with our contribution process.
-
-[gfi]: https://github.com/facebook/react-native/labels/good%20first%20issue
-
-### Discussions
-
-Larger discussions and proposals are discussed in [**@react-native-community/discussions-and-proposals**][repo-meta].
-
-[repo-meta]: https://github.com/react-native-community/discussions-and-proposals
-
-## 📄 License
-
-React Native is MIT licensed, as found in the [LICENSE][l] file.
-
-React Native documentation is Creative Commons licensed, as found in the [LICENSE-docs][ld] file.
-
-[l]: https://github.com/facebook/react-native/blob/main/LICENSE
-[ld]: https://github.com/facebook/react-native/blob/main/LICENSE-docs
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 将</font></font><a href="https://react.dev/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">声明式 UI 框架引入了 iOS 和 Android。</font><font style="vertical-align: inherit;">通过 React Native，您可以使用本机 UI 控件并拥有对本机平台的完全访问权限。</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">声明性的。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React 使创建交互式 UI 变得轻而易举。</font><font style="vertical-align: inherit;">声明性视图使您的代码更可预测且更易于调试。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于组件。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建管理其状态的封装组件，然后组合它们以创建复杂的 UI。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员速度。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在几秒钟内查看本地更改。</font><font style="vertical-align: inherit;">对 JavaScript 代码的更改可以实时重新加载，而无需重建本机应用程序。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可移植性。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跨 iOS、Android 和</font></font><a href="https://reactnative.dev/docs/out-of-tree-platforms" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他平台</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重用代码。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 由许多公司和个人核心贡献者开发和支持。</font></font><a href="https://github.com/facebook/react-native/blob/HEAD/ECOSYSTEM.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在我们的生态系统概述</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中了解更多信息</font><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contents" class="anchor" aria-hidden="true" tabindex="-1" href="#contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容</font></font></h2>
+<ul dir="auto">
+<li><a href="#-requirements"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求</font></font></a></li>
+<li><a href="#-building-your-first-react-native-app"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建你的第一个 React Native 应用程序</font></font></a></li>
+<li><a href="#-documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="#-upgrading"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">升级中</font></font></a></li>
+<li><a href="#-how-to-contribute"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何贡献</font></font></a></li>
+<li><a href="#code-of-conduct"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为守则</font></font></a></li>
+<li><a href="#-license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--requirements" class="anchor" aria-hidden="true" tabindex="-1" href="#-requirements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📋 要求</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 应用程序可能面向 iOS 13.4 和 Android 6.0 (API 23) 或更高版本。</font><font style="vertical-align: inherit;">您可以使用 Windows、macOS 或 Linux 作为开发操作系统，但构建和运行 iOS 应用程序仅限于 macOS。</font></font><a href="https://expo.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">像Expo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这样的工具</font><font style="vertical-align: inherit;">可以用来解决这个问题。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--building-your-first-react-native-app" class="anchor" aria-hidden="true" tabindex="-1" href="#-building-your-first-react-native-app"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎉 构建你的第一个 React Native 应用程序</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请遵循</font></font><a href="https://reactnative.dev/docs/getting-started" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">安装 React Native 的推荐方法取决于您的项目。</font><font style="vertical-align: inherit;">您可以在这里找到最常见场景的简短指南：</font></font></p>
+<ul dir="auto">
+<li><a href="https://snack.expo.dev/@samples/hello-world" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尝试 React Native</font></font></a></li>
+<li><a href="https://reactnative.dev/docs/getting-started" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建新应用程序</font></font></a></li>
+<li><a href="https://reactnative.dev/docs/integration-with-existing-apps" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 React Native 添加到现有应用程序</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 文档</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://reactnative.dev/docs/getting-started" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 的完整文档可以在我们的网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上找到</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 文档讨论了特定于 React Native 的组件、API 和主题。</font><font style="vertical-align: inherit;">有关 React Native 和 React DOM 之间共享的 React API 的更多文档，请参阅</font></font><a href="https://react.dev/learn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 文档和网站的源代码托管在一个单独的存储库</font></font><a href="https://github.com/facebook/react-native-website"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@facebook/react-native-website</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--upgrading" class="anchor" aria-hidden="true" tabindex="-1" href="#-upgrading"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 升级中</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">升级到 React Native 的新版本可能会让您访问更多 API、视图、开发人员工具和其他好东西。</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://reactnative.dev/docs/upgrading" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">升级指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取说明。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 版本</font></font><a href="https://github.com/reactwg/react-native-releases/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此讨论存储库中</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行了讨论。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--how-to-contribute" class="anchor" aria-hidden="true" tabindex="-1" href="#-how-to-contribute"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👏 如何贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该存储库的主要目的是继续发展 React Native 核心。</font><font style="vertical-align: inherit;">我们希望尽可能简单和透明地为这个项目做出贡献，我们感谢社区贡献错误修复和改进。</font><font style="vertical-align: inherit;">请阅读下文，了解如何参与改进 React Native。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-code-of-conduct" class="anchor" aria-hidden="true" tabindex="-1" href="#code-of-conduct"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://code.fb.com/codeofconduct/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为守则</font></font></a></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Facebook 已采用我们希望项目参与者遵守的行为准则。</font><font style="vertical-align: inherit;">请阅读</font></font><a href="https://code.fb.com/codeofconduct/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全文，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以便您了解哪些行为是可以容忍的，哪些行为是不能容忍的。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-contributing-guide" class="anchor" aria-hidden="true" tabindex="-1" href="#contributing-guide"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://reactnative.dev/docs/contributing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读我们的</font></font><a href="https://reactnative.dev/docs/contributing" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解我们的开发流程、如何提出错误修复和改进，以及如何构建和测试对 React Native 的更改。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-open-source-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#open-source-roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://github.com/facebook/react-native/wiki/Roadmap"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源路线图</font></font></a></h3>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/facebook/react-native/wiki/Roadmap"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在路线图</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中详细了解我们对 React Native 的愿景</font><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-good-first-issues" class="anchor" aria-hidden="true" tabindex="-1" href="#good-first-issues"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">好的第一期</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/facebook/react-native/labels/good%20first%20issue"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们有一个好的优先问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">列表</font><font style="vertical-align: inherit;">，其中包含范围相对有限的错误。</font><font style="vertical-align: inherit;">这是一个开始、获得经验和熟悉我们的贡献流程的好地方。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-discussions" class="anchor" aria-hidden="true" tabindex="-1" href="#discussions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/react-native-community/discussions-and-proposals"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更大的讨论和提案在@react-native-community/discussions-and-proposals</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中讨论</font><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--license" class="anchor" aria-hidden="true" tabindex="-1" href="#-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📄 许可证</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/facebook/react-native/blob/main/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 已获得 MIT 许可，如LICENSE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中所示</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native 文档已获得 Creative Commons 许可，如</font></font><a href="https://github.com/facebook/react-native/blob/main/LICENSE-docs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LICENSE-docs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中所示。</font></font></p>
+</article></div>
